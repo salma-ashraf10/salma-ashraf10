@@ -86,7 +86,6 @@ I write technical articles and walkthroughs about:
 
 ### GitHub Stats
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=salma-ashraf10&theme=chartreuse-dark"/>
 
 <br>
 
