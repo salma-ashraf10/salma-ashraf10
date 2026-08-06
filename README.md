@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-   Hi 👋, I'm Salma Ashraf [ 0xL0m4 ] <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" width="50">
+   Hi , I'm Salma Ashraf [ 0xL0m4 ] <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" width="50">
 </h1>
 
 <h3 align="center">
