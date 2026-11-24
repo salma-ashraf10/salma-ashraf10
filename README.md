@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=5C0A14&center=true&vCenter=true&width=700&lines=Penetration+Tester+|+Application+Security;Bug+Bounty+Hunter;CTF+Player+%7C+Security+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=8B0000&center=true&vCenter=true&width=700&lines=Penetration+Tester+|+Application+Security;Bug+Bounty+Hunter;CTF+Player+%7C+Security+Researcher" alt="Typing SVG" />
   </a>
 </div>
 
