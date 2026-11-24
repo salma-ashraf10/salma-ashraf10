@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="224" viewBox="0 0 760 224" role="img" aria-label="CTF achievements">
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C62828"/><stop offset="1" stop-color="#6E0B14"/></linearGradient></defs>
+<rect x="0" y="0" width="364" height="104" rx="10" fill="#161B22" stroke="#30363D"/>
+<rect x="0" y="0" width="7" height="104" rx="3" fill="url(#a)"/>
+<text x="28" y="58" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#C62828">3RD</text>
+<text x="30" y="82" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="3" fill="#8B949E">PLACE</text>
+<text x="128" y="48" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">Nile University CTF</text>
+<text x="128" y="72" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">Team competition</text>
+<rect x="380" y="0" width="364" height="104" rx="10" fill="#161B22" stroke="#30363D"/>
+<rect x="380" y="0" width="7" height="104" rx="3" fill="url(#a)"/>
+<text x="408" y="58" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="40" font-weight="800" fill="#C62828">8TH</text>
+<text x="410" y="82" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="3" fill="#8B949E">PLACE</text>
+<text x="508" y="48" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">Military Technical College CTF</text>
+<text x="508" y="72" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">Qualified for the final round</text>
+<rect x="0" y="120" width="364" height="104" rx="10" fill="#161B22" stroke="#30363D"/>
+<rect x="0" y="120" width="7" height="104" rx="3" fill="url(#a)"/>
+<text x="28" y="178" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#C62828">20TH</text>
+<text x="30" y="202" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="3" fill="#8B949E">PLACE</text>
+<text x="128" y="168" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">0xV01d CTF</text>
+<text x="128" y="192" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">Member of the N!ghtM4re team</text>
+<rect x="380" y="120" width="364" height="104" rx="10" fill="#161B22" stroke="#30363D"/>
+<rect x="380" y="120" width="7" height="104" rx="3" fill="url(#a)"/>
+<text x="408" y="178" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#C62828">ZINAD</text>
+<text x="410" y="202" font-family="Consolas,Menlo,monospace" font-size="12" letter-spacing="3" fill="#8B949E">CTF</text>
+<text x="508" y="168" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#E6EDF3">Web exploitation challenges</text>
+<text x="508" y="192" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8B949E">Participant</text>
+</svg>
