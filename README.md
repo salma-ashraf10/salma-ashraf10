@@ -169,7 +169,6 @@ Full attack lifecycle documentation: reconnaissance, enumeration, exploitation, 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=CURRENTLY%20EXPLORING&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="CURRENTLY EXPLORING" />
 </div>
 
-<div align="left>
 
 Advanced Web Exploitation
 
@@ -179,7 +178,6 @@ Linux Privilege Escalation
 
 Advanced Bug Bounty Techniques
 
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=GITHUB%20STATISTICS&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="GITHUB STATISTICS" />
