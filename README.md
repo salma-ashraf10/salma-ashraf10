@@ -92,6 +92,7 @@ My experience comes from CTF competitions, Hack The Box, bug bounty programs, an
 </div>
  
 <div align="center">
+  
 **Languages**
  
 ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=3776AB)
