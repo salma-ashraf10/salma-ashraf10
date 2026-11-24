@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <div align="center">
   <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:FFFFFF,60:009736,100:8B0000&height=200&section=header&text=Salma%20Ashraf%20%7C%200xL0m4&fontSize=38&fontColor=000000&animation=fadeIn&fontAlignY=35"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:100B10&height=200&section=header&text=Salma%20Ashraf%20%7C%200xL0m4&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
   width="100%"
 />
 </div>
@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=B22222&center=true&vCenter=true&width=700&lines=Penetration+Tester+|+Application+Security;Bug+Bounty+Hunter;CTF+Player+%7C+Security+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=5C0A14&center=true&vCenter=true&width=700&lines=Penetration+Tester+|+Application+Security;Bug+Bounty+Hunter;CTF+Player+%7C+Security+Researcher" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 </div>
 <p></p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=ABOUT%20ME&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="ABOUT ME" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4048,100:1C1F24&height=42&section=header&text=ABOUT%20ME&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="ABOUT ME" />
 </div>
   
 I'm a cybersecurity student specializing in **Web Application Security and Penetration Testing**, studying Computer Science and Artificial Intelligence at **Cairo University** (class of 2027).
@@ -37,7 +37,7 @@ My experience comes from CTF competitions, Hack The Box, bug bounty programs, an
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=CTF%20ACHIEVEMENTS&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="CTF ACHIEVEMENTS" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4048,100:1C1F24&height=42&section=header&text=CTF%20ACHIEVEMENTS&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="CTF ACHIEVEMENTS" />
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@ My experience comes from CTF competitions, Hack The Box, bug bounty programs, an
 </div>
 <p></p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=CORE%20SKILLS&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="CORE SKILLS" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4048,100:1C1F24&height=42&section=header&text=CORE%20SKILLS&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="CORE SKILLS" />
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@ My experience comes from CTF competitions, Hack The Box, bug bounty programs, an
 <p></p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=Security%20Arsenal&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="Security%20Arsenal" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4048,100:1C1F24&height=42&section=header&text=Security%20Arsenal&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="Security%20Arsenal" />
 </div>
  
 <div align="center">
@@ -88,7 +88,7 @@ My experience comes from CTF competitions, Hack The Box, bug bounty programs, an
 </div>
 <p></p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=Tech%20Stack&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="Tech%20Stack" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4048,100:1C1F24&height=42&section=header&text=Tech%20Stack&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="Tech%20Stack" />
 </div>
  
 <div align="center">
@@ -151,7 +151,7 @@ Full attack lifecycle documentation: reconnaissance, enumeration, exploitation, 
 
  
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=VOLUNTEERING&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="VOLUNTEERING" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4048,100:1C1F24&height=42&section=header&text=VOLUNTEERING&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="VOLUNTEERING" />
 </div>
 
 **Cybersecurity Volunteer**, at Security Nexus, Cairo University
@@ -166,7 +166,7 @@ Full attack lifecycle documentation: reconnaissance, enumeration, exploitation, 
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=CURRENTLY%20EXPLORING&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="CURRENTLY EXPLORING" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4048,100:1C1F24&height=42&section=header&text=CURRENTLY%20EXPLORING&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="CURRENTLY EXPLORING" />
 </div>
 
 
@@ -180,7 +180,7 @@ Advanced Bug Bounty Techniques
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=GITHUB%20STATISTICS&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="GITHUB STATISTICS" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4048,100:1C1F24&height=42&section=header&text=GITHUB%20STATISTICS&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="GITHUB STATISTICS" />
 </div>
 
 <div align="center">
@@ -202,7 +202,7 @@ Advanced Bug Bounty Techniques
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:100B10&height=42&section=header&text=CONNECT%20WITH%20ME&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="CONNECT WITH ME" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B4048,100:1C1F24&height=42&section=header&text=CONNECT%20WITH%20ME&fontSize=18&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="CONNECT WITH ME" />
 </div>
 
 <div align="center">
