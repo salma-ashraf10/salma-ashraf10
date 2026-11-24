@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="1344" viewBox="0 0 620 1344" role="img" aria-label="Core skills">
+<rect width="620" height="1344" rx="10" fill="#0D1117" stroke="#30363D"/>
+<rect width="620" height="38" rx="10" fill="#161B22"/><rect y="28" width="620" height="10" fill="#161B22"/>
+<circle cx="22" cy="19" r="6" fill="#C62828"/><circle cx="42" cy="19" r="6" fill="#6E7681"/><circle cx="62" cy="19" r="6" fill="#3FB950"/>
+<text x="310.0" y="24" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="13" fill="#8B949E">0xL0m4 : core_skills</text>
+<g font-family="'Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace" font-size="15" xml:space="preserve">
+<text x="28" y="78"><tspan fill="#3FB950" font-weight="bold">0xL0m4@kali</tspan><tspan fill="#C9D1D9">:~$ </tspan><tspan fill="#C9D1D9">tree core_skills/</tspan></text>
+<text x="28" y="101"><tspan fill="#C9D1D9" font-weight="bold">core_skills/</tspan></text>
+<text x="28" y="124"><tspan fill="#6E7681">├── </tspan><tspan fill="#C62828" font-weight="bold">WEB APPLICATION SECURITY</tspan></text>
+<text x="28" y="147"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">SQL Injection</tspan></text>
+<text x="28" y="170"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">XSS</tspan></text>
+<text x="28" y="193"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">CSRF</tspan></text>
+<text x="28" y="216"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">SSRF</tspan></text>
+<text x="28" y="239"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">IDOR</tspan></text>
+<text x="28" y="262"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">XXE</tspan></text>
+<text x="28" y="285"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">File Upload Flaws</tspan></text>
+<text x="28" y="308"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Command Injection</tspan></text>
+<text x="28" y="331"><tspan fill="#6E7681">│   └── </tspan><tspan fill="#3FB950">Path Traversal</tspan></text>
+<text x="28" y="354"><tspan fill="#6E7681">│</tspan></text>
+<text x="28" y="377"><tspan fill="#6E7681">├── </tspan><tspan fill="#C62828" font-weight="bold">AUTHENTICATION &amp; AUTHORIZATION</tspan></text>
+<text x="28" y="400"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Session Management</tspan></text>
+<text x="28" y="423"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">JWT Attacks</tspan></text>
+<text x="28" y="446"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">OAuth Misconfigurations</tspan></text>
+<text x="28" y="469"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Access Control Bypass</tspan></text>
+<text x="28" y="492"><tspan fill="#6E7681">│   └── </tspan><tspan fill="#3FB950">Broken Authentication</tspan></text>
+<text x="28" y="515"><tspan fill="#6E7681">│</tspan></text>
+<text x="28" y="538"><tspan fill="#6E7681">├── </tspan><tspan fill="#C62828" font-weight="bold">API SECURITY</tspan></text>
+<text x="28" y="561"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">REST API Testing</tspan></text>
+<text x="28" y="584"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Business Logic Flaws</tspan></text>
+<text x="28" y="607"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Mass Assignment</tspan></text>
+<text x="28" y="630"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Rate Limiting Issues</tspan></text>
+<text x="28" y="653"><tspan fill="#6E7681">│   └── </tspan><tspan fill="#3FB950">BOLA / BFLA</tspan></text>
+<text x="28" y="676"><tspan fill="#6E7681">│</tspan></text>
+<text x="28" y="699"><tspan fill="#6E7681">├── </tspan><tspan fill="#C62828" font-weight="bold">RECONNAISSANCE</tspan></text>
+<text x="28" y="722"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Subdomain Enumeration</tspan></text>
+<text x="28" y="745"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Directory Fuzzing</tspan></text>
+<text x="28" y="768"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Service Enumeration</tspan></text>
+<text x="28" y="791"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">OSINT</tspan></text>
+<text x="28" y="814"><tspan fill="#6E7681">│   └── </tspan><tspan fill="#3FB950">Attack Surface Mapping</tspan></text>
+<text x="28" y="837"><tspan fill="#6E7681">│</tspan></text>
+<text x="28" y="860"><tspan fill="#6E7681">├── </tspan><tspan fill="#C62828" font-weight="bold">LINUX PRIVILEGE ESCALATION</tspan></text>
+<text x="28" y="883"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">SUID / Capabilities</tspan></text>
+<text x="28" y="906"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Sudo Misconfigurations</tspan></text>
+<text x="28" y="929"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Cron Jobs</tspan></text>
+<text x="28" y="952"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Kernel Exploits</tspan></text>
+<text x="28" y="975"><tspan fill="#6E7681">│   └── </tspan><tspan fill="#3FB950">Service Misconfigurations</tspan></text>
+<text x="28" y="998"><tspan fill="#6E7681">│</tspan></text>
+<text x="28" y="1021"><tspan fill="#6E7681">├── </tspan><tspan fill="#C62828" font-weight="bold">PASSWORD ATTACKS</tspan></text>
+<text x="28" y="1044"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Hash Cracking</tspan></text>
+<text x="28" y="1067"><tspan fill="#6E7681">│   ├── </tspan><tspan fill="#3FB950">Wordlist Generation</tspan></text>
+<text x="28" y="1090"><tspan fill="#6E7681">│   └── </tspan><tspan fill="#3FB950">Credential Brute-Forcing</tspan></text>
+<text x="28" y="1113"><tspan fill="#6E7681">│</tspan></text>
+<text x="28" y="1136"><tspan fill="#6E7681">└── </tspan><tspan fill="#C62828" font-weight="bold">METHODOLOGY &amp; REPORTING</tspan></text>
+<text x="28" y="1159"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#3FB950">OWASP Top 10</tspan></text>
+<text x="28" y="1182"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#3FB950">OWASP API Top 10</tspan></text>
+<text x="28" y="1205"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#3FB950">PTES</tspan></text>
+<text x="28" y="1228"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#3FB950">Technical Write-ups</tspan></text>
+<text x="28" y="1251"><tspan fill="#6E7681">    └── </tspan><tspan fill="#3FB950">Vulnerability Reports</tspan></text>
+<text x="28" y="1297"><tspan fill="#C9D1D9">7 categories, 37 skills</tspan></text>
+</g></svg>
