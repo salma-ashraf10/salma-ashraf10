@@ -53,6 +53,6 @@
 <text x="28" y="1136"><tspan fill="#6E7681">└── </tspan><tspan fill="#C62828" font-weight="bold">METHODOLOGY &amp; REPORTING</tspan></text>
 <text x="28" y="1159"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#3FB950">OWASP Top 10</tspan></text>
 <text x="28" y="1182"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#3FB950">OWASP API Top 10</tspan></text>
-<text x="28" y="1228"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#3FB950">Technical Write-ups</tspan></text>
-<text x="28" y="1251"><tspan fill="#6E7681">    └── </tspan><tspan fill="#3FB950">Vulnerability Reports</tspan></text>
+<text x="28" y="1205"><tspan fill="#6E7681">    ├── </tspan><tspan fill="#3FB950">Technical Write-ups</tspan></text>
+<text x="28" y="1228"><tspan fill="#6E7681">    └── </tspan><tspan fill="#3FB950">Vulnerability Reports</tspan></text>
 </g></svg>
