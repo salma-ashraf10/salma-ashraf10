@@ -96,6 +96,8 @@ I write technical articles and walkthroughs about:
 
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/salma-ashraf10/salma-ashraf10/output/github-contribution-grid-snake.svg)
+
 #
 
 <h4 align="center">
