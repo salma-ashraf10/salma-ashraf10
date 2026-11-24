@@ -15,10 +15,10 @@
 
 <div align="center">
 
-![Cairo University](https://img.shields.io/badge/Cairo%20University-compuer%20science-8B0000?style=for-the-badge&labelColor=181717)
-![DEPI](https://img.shields.io/badge/DEPI-Pentest%20Trainee-8B0000?style=for-the-badge&labelColor=181717)
-![NTI](https://img.shields.io/badge/NTI-Network%20Security-8B0000?style=for-the-badge&labelColor=181717)
-![Location](https://img.shields.io/badge/Location-Giza%2C%20Egypt-8B0000?style=for-the-badge&labelColor=181717)
+![Cairo University](https://img.shields.io/badge/Cairo%20University-compuer%20science-8B0000?style=for-the-badge&labelColor=0:3B4048,100:1C1F24)
+![DEPI](https://img.shields.io/badge/DEPI-Pentest%20Trainee-8B0000?style=for-the-badge&labelColor=0:3B4048,100:1C1F24)
+![NTI](https://img.shields.io/badge/NTI-Network%20Security-8B0000?style=for-the-badge&labelColor0:3B4048,100:1C1F24)
+![Location](https://img.shields.io/badge/Location-Giza%2C%20Egypt-8B0000?style=for-the-badge&labelColor=0:3B4048,100:1C1F24)
 
 <img src="https://komarev.com/ghpvc/?username=salma-ashraf10&style=flat-square&color=8B0000&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/salma-ashraf10?style=flat-square&color=8B0000&label=FOLLOWERS" />
